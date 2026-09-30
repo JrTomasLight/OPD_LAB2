@@ -110,3 +110,6 @@ InitTestScene*.unity*
 
 # Second project which is not used
 /[Aa]ssets/IndieMarc/TopDownDemo
+
+.vscode/
+.idea/
